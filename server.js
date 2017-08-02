@@ -26,6 +26,6 @@ app.get('/img', function(req, res, next) {
     });
 });
 
-app.listen(9999, function() {
-    console.log('App listening on 9999');
+app.listen(8080, function() {
+    console.log('App listening on 8080');
 });
